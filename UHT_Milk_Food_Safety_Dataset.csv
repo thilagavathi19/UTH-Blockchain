@@ -1,0 +1,101 @@
+BatchID,Product,Factory,ProductionDate,ExpiryDate,Status,BlockchainHash,LastUpdated,TemperatureDuringProcessing,OperatorID,QualityCheckRemarks
+Batch_001,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-09,2025-05-28,Delivered,Hash_7293,2024-12-26 00:34:43.055195,88.8,OP_447,N/A
+Batch_002,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-07,2025-06-20,Quality Check,Hash_9886,2024-12-26 03:33:43.055210,83.7,OP_586,N/A
+Batch_003,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-04,2025-04-08,Quality Check,Hash_6500,2024-12-25 05:48:43.055220,71.2,OP_774,Pass
+Batch_004,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-12,2025-03-23,Delivered,Hash_3494,2024-12-25 07:34:43.055229,74.8,OP_867,N/A
+Batch_005,UHT Milk,Chiangmai Fresh Milk Factory,2024-11-28,2025-02-27,Processed,Hash_7660,2024-12-25 20:48:43.055237,73.1,OP_588,Minor Issue
+Batch_006,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-08,2025-03-15,Packaged,Hash_8481,2024-12-26 03:37:43.055246,84.0,OP_792,Fail
+Batch_007,UHT Milk,Chiangmai Fresh Milk Factory,2024-11-29,2025-03-14,Delivered,Hash_6840,2024-12-25 11:16:43.055254,84.8,OP_105,Fail
+Batch_008,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-15,2025-01-25,Processed,Hash_8889,2024-12-25 17:21:43.055267,83.9,OP_663,Minor Issue
+Batch_009,UHT Milk,Chiangmai Fresh Milk Factory,2024-11-27,2025-05-02,Packaged,Hash_8874,2024-12-26 03:06:43.055277,84.4,OP_303,N/A
+Batch_010,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-18,2025-04-26,Packaged,Hash_1551,2024-12-25 18:05:43.055286,85.5,OP_800,N/A
+Batch_011,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-13,2025-03-18,Quality Check,Hash_9809,2024-12-25 09:52:43.055294,82.1,OP_573,Fail
+Batch_012,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-24,2025-06-05,Dispatched,Hash_3633,2024-12-25 22:11:43.055301,86.2,OP_612,Pass
+Batch_013,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-01,2025-06-02,Dispatched,Hash_8924,2024-12-25 11:11:43.055309,76.5,OP_500,Fail
+Batch_014,UHT Milk,Chiangmai Fresh Milk Factory,2024-11-28,2025-05-27,Packaged,Hash_7551,2024-12-25 05:26:43.055317,73.3,OP_199,Pass
+Batch_015,UHT Milk,Chiangmai Fresh Milk Factory,2024-11-27,2025-05-10,Packaged,Hash_3040,2024-12-25 04:50:43.055325,76.3,OP_290,Minor Issue
+Batch_016,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-05,2025-04-22,Processed,Hash_6322,2024-12-25 04:34:43.055333,85.3,OP_237,Fail
+Batch_017,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-17,2025-02-24,Packaged,Hash_5441,2024-12-25 21:23:43.055341,86.4,OP_157,Minor Issue
+Batch_018,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-08,2025-01-25,Quality Check,Hash_2188,2024-12-25 09:05:43.055349,74.2,OP_991,Fail
+Batch_019,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-06,2025-04-13,Delivered,Hash_4417,2024-12-25 07:17:43.055357,82.3,OP_332,Pass
+Batch_020,UHT Milk,Chiangmai Fresh Milk Factory,2024-11-27,2025-02-09,Delivered,Hash_3343,2024-12-25 21:26:43.055365,78.4,OP_348,Pass
+Batch_021,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-02,2025-04-05,Processed,Hash_2123,2024-12-26 00:26:43.055372,87.5,OP_797,Pass
+Batch_022,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-09,2025-04-12,Delivered,Hash_1976,2024-12-25 22:12:43.055380,74.9,OP_882,Pass
+Batch_023,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-17,2025-03-23,Processed,Hash_2358,2024-12-26 01:39:43.055388,84.9,OP_919,Pass
+Batch_024,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-16,2025-04-23,Packaged,Hash_2131,2024-12-25 04:51:43.055396,72.4,OP_521,Fail
+Batch_025,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-20,2025-02-07,Packaged,Hash_8493,2024-12-25 09:28:43.055404,82.4,OP_887,Fail
+Batch_026,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-13,2025-06-10,Dispatched,Hash_7325,2024-12-26 04:11:43.055413,79.3,OP_863,Fail
+Batch_027,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-23,2025-05-12,Dispatched,Hash_3167,2024-12-25 12:05:43.055421,71.1,OP_280,Pass
+Batch_028,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-08,2025-04-11,Packaged,Hash_3288,2024-12-25 10:28:43.055428,84.3,OP_994,Minor Issue
+Batch_029,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-03,2025-02-19,Packaged,Hash_7044,2024-12-26 01:44:43.055436,82.7,OP_157,N/A
+Batch_030,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-06,2025-06-21,Delivered,Hash_6772,2024-12-25 13:28:43.055443,89.5,OP_311,N/A
+Batch_031,UHT Milk,Chiangmai Fresh Milk Factory,2024-11-26,2025-04-09,Processed,Hash_1495,2024-12-25 17:58:43.055453,89.0,OP_413,Fail
+Batch_032,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-07,2025-02-03,Delivered,Hash_3622,2024-12-25 23:05:43.055466,89.8,OP_438,Pass
+Batch_033,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-06,2025-04-17,Packaged,Hash_1621,2024-12-25 23:44:43.055478,87.4,OP_884,N/A
+Batch_034,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-24,2025-03-15,Delivered,Hash_3827,2024-12-25 06:56:43.055488,78.3,OP_200,Fail
+Batch_035,UHT Milk,Chiangmai Fresh Milk Factory,2024-11-29,2025-02-17,Delivered,Hash_2556,2024-12-25 10:43:43.055496,78.8,OP_436,Pass
+Batch_036,UHT Milk,Chiangmai Fresh Milk Factory,2024-11-26,2025-03-07,Packaged,Hash_7353,2024-12-25 14:14:43.055504,75.6,OP_662,Pass
+Batch_037,UHT Milk,Chiangmai Fresh Milk Factory,2024-11-28,2025-03-27,Quality Check,Hash_2526,2024-12-26 04:09:43.055512,71.7,OP_143,Minor Issue
+Batch_038,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-21,2025-06-10,Processed,Hash_2717,2024-12-26 01:22:43.055519,89.5,OP_224,N/A
+Batch_039,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-17,2025-04-10,Dispatched,Hash_3545,2024-12-25 20:10:43.055527,88.9,OP_631,N/A
+Batch_040,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-04,2025-02-13,Delivered,Hash_4520,2024-12-25 06:42:43.055535,78.1,OP_705,Pass
+Batch_041,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-07,2025-05-03,Delivered,Hash_6053,2024-12-25 22:29:43.055543,76.7,OP_630,Minor Issue
+Batch_042,UHT Milk,Chiangmai Fresh Milk Factory,2024-11-29,2025-03-04,Processed,Hash_7201,2024-12-25 11:00:43.055551,88.8,OP_494,Fail
+Batch_043,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-15,2025-01-29,Processed,Hash_5495,2024-12-25 17:55:43.055558,76.9,OP_784,Pass
+Batch_044,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-18,2025-02-17,Quality Check,Hash_3516,2024-12-25 19:19:43.055566,70.5,OP_145,Pass
+Batch_045,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-09,2025-02-27,Delivered,Hash_1287,2024-12-25 20:25:43.055573,70.9,OP_533,Minor Issue
+Batch_046,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-04,2025-06-15,Dispatched,Hash_4660,2024-12-25 05:29:43.055581,75.9,OP_274,Fail
+Batch_047,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-22,2025-02-16,Processed,Hash_9538,2024-12-25 09:57:43.055589,82.4,OP_310,Minor Issue
+Batch_048,UHT Milk,Chiangmai Fresh Milk Factory,2024-11-26,2025-05-07,Quality Check,Hash_2228,2024-12-26 02:28:43.055597,80.6,OP_158,N/A
+Batch_049,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-19,2025-06-08,Dispatched,Hash_9245,2024-12-25 12:18:43.055610,89.6,OP_386,Pass
+Batch_050,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-10,2025-02-15,Packaged,Hash_2026,2024-12-25 08:44:43.055623,73.8,OP_898,N/A
+Batch_051,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-05,2025-02-10,Processed,Hash_1382,2024-12-25 05:10:43.055635,73.4,OP_602,Minor Issue
+Batch_052,UHT Milk,Chiangmai Fresh Milk Factory,2024-11-30,2025-02-06,Packaged,Hash_4688,2024-12-26 02:07:43.055650,88.1,OP_127,Fail
+Batch_053,UHT Milk,Chiangmai Fresh Milk Factory,2024-11-27,2025-03-04,Dispatched,Hash_2254,2024-12-25 08:58:43.055662,89.6,OP_311,N/A
+Batch_054,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-09,2025-05-02,Packaged,Hash_1700,2024-12-25 05:49:43.055670,80.4,OP_387,Minor Issue
+Batch_055,UHT Milk,Chiangmai Fresh Milk Factory,2024-11-28,2025-03-08,Processed,Hash_6305,2024-12-25 23:20:43.055678,81.5,OP_514,Fail
+Batch_056,UHT Milk,Chiangmai Fresh Milk Factory,2024-11-28,2025-02-07,Quality Check,Hash_8721,2024-12-25 06:32:43.055685,87.6,OP_930,Fail
+Batch_057,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-20,2025-03-09,Processed,Hash_3175,2024-12-25 21:19:43.055693,85.3,OP_370,Fail
+Batch_058,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-14,2025-05-04,Dispatched,Hash_4044,2024-12-25 12:15:43.055701,75.1,OP_346,N/A
+Batch_059,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-04,2025-06-06,Processed,Hash_8043,2024-12-25 23:16:43.055708,77.4,OP_136,Fail
+Batch_060,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-10,2025-01-25,Processed,Hash_7549,2024-12-25 15:34:43.055721,81.3,OP_471,Minor Issue
+Batch_061,UHT Milk,Chiangmai Fresh Milk Factory,2024-11-30,2025-06-23,Quality Check,Hash_8275,2024-12-25 14:58:43.055734,82.6,OP_852,N/A
+Batch_062,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-02,2025-03-19,Delivered,Hash_7041,2024-12-25 10:54:43.055747,86.2,OP_660,Minor Issue
+Batch_063,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-14,2025-06-21,Packaged,Hash_4569,2024-12-26 04:16:43.055759,79.1,OP_473,N/A
+Batch_064,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-05,2025-06-22,Delivered,Hash_5364,2024-12-25 07:30:43.055771,85.0,OP_363,Minor Issue
+Batch_065,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-09,2025-06-17,Dispatched,Hash_1344,2024-12-25 19:20:43.055784,84.8,OP_907,Pass
+Batch_066,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-05,2025-04-21,Delivered,Hash_5288,2024-12-25 22:13:43.055798,70.1,OP_447,Minor Issue
+Batch_067,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-09,2025-04-04,Quality Check,Hash_2201,2024-12-26 03:16:43.055811,76.6,OP_972,Minor Issue
+Batch_068,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-03,2025-04-20,Delivered,Hash_8479,2024-12-25 23:44:43.055824,88.3,OP_729,Pass
+Batch_069,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-03,2025-03-03,Delivered,Hash_8601,2024-12-25 08:39:43.055835,77.1,OP_146,Pass
+Batch_070,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-08,2025-05-28,Processed,Hash_4588,2024-12-25 19:56:43.055843,88.9,OP_893,N/A
+Batch_071,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-12,2025-06-16,Packaged,Hash_6199,2024-12-25 04:33:43.055851,88.5,OP_528,N/A
+Batch_072,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-23,2025-03-10,Packaged,Hash_2564,2024-12-26 01:28:43.055858,89.8,OP_606,Minor Issue
+Batch_073,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-25,2025-03-12,Dispatched,Hash_2615,2024-12-26 01:19:43.055866,79.0,OP_189,Pass
+Batch_074,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-12,2025-06-04,Quality Check,Hash_7681,2024-12-25 11:15:43.055874,81.7,OP_317,Pass
+Batch_075,UHT Milk,Chiangmai Fresh Milk Factory,2024-11-28,2025-02-05,Packaged,Hash_1959,2024-12-25 15:46:43.055882,83.4,OP_141,Fail
+Batch_076,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-14,2025-04-19,Processed,Hash_3423,2024-12-25 10:05:43.055889,84.9,OP_555,Minor Issue
+Batch_077,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-08,2025-02-04,Processed,Hash_1598,2024-12-26 03:36:43.055897,71.1,OP_707,Fail
+Batch_078,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-07,2025-05-15,Processed,Hash_4685,2024-12-25 20:04:43.055905,87.5,OP_399,N/A
+Batch_079,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-20,2025-04-23,Packaged,Hash_4685,2024-12-25 11:46:43.055913,70.8,OP_490,N/A
+Batch_080,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-10,2025-02-03,Packaged,Hash_1384,2024-12-25 06:12:43.055920,76.7,OP_807,N/A
+Batch_081,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-10,2025-06-15,Dispatched,Hash_3767,2024-12-25 20:48:43.055929,86.3,OP_989,Minor Issue
+Batch_082,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-15,2025-03-21,Quality Check,Hash_3046,2024-12-25 18:15:43.055937,77.3,OP_413,Pass
+Batch_083,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-16,2025-03-29,Processed,Hash_2157,2024-12-25 11:09:43.055944,72.9,OP_184,N/A
+Batch_084,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-12,2025-05-10,Quality Check,Hash_1900,2024-12-26 01:46:43.055952,82.5,OP_980,Pass
+Batch_085,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-23,2025-04-27,Dispatched,Hash_3387,2024-12-25 07:29:43.055959,84.0,OP_810,Fail
+Batch_086,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-03,2025-05-24,Processed,Hash_2478,2024-12-25 09:45:43.055971,73.3,OP_478,Fail
+Batch_087,UHT Milk,Chiangmai Fresh Milk Factory,2024-11-30,2025-05-29,Dispatched,Hash_7346,2024-12-26 01:14:43.055985,70.2,OP_491,Fail
+Batch_088,UHT Milk,Chiangmai Fresh Milk Factory,2024-11-28,2025-06-03,Packaged,Hash_8545,2024-12-26 02:25:43.055998,71.7,OP_948,Pass
+Batch_089,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-05,2025-03-07,Delivered,Hash_4362,2024-12-25 05:12:43.056010,83.5,OP_142,N/A
+Batch_090,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-17,2025-03-09,Delivered,Hash_2252,2024-12-26 01:26:43.056018,78.1,OP_287,Fail
+Batch_091,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-10,2025-02-25,Delivered,Hash_2700,2024-12-25 18:19:43.056027,82.8,OP_615,Fail
+Batch_092,UHT Milk,Chiangmai Fresh Milk Factory,2024-11-27,2025-04-02,Packaged,Hash_6487,2024-12-25 09:57:43.056040,85.3,OP_458,Fail
+Batch_093,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-23,2025-05-03,Delivered,Hash_1392,2024-12-25 09:13:43.056052,81.5,OP_174,Minor Issue
+Batch_094,UHT Milk,Chiangmai Fresh Milk Factory,2024-11-29,2025-05-09,Dispatched,Hash_7430,2024-12-25 11:53:43.056060,87.1,OP_861,Pass
+Batch_095,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-24,2025-04-09,Dispatched,Hash_7389,2024-12-25 08:25:43.056068,87.5,OP_331,N/A
+Batch_096,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-14,2025-03-10,Quality Check,Hash_1554,2024-12-25 20:25:43.056076,75.3,OP_975,N/A
+Batch_097,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-17,2025-05-01,Dispatched,Hash_5777,2024-12-25 14:51:43.056084,71.4,OP_989,Fail
+Batch_098,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-01,2025-02-23,Processed,Hash_3445,2024-12-25 12:28:43.056092,83.7,OP_987,Minor Issue
+Batch_099,UHT Milk,Chiangmai Fresh Milk Factory,2024-12-22,2025-04-24,Delivered,Hash_7269,2024-12-26 00:26:43.056100,81.5,OP_820,N/A
+Batch_100,UHT Milk,Chiangmai Fresh Milk Factory,2024-11-26,2025-03-15,Delivered,Hash_8478,2024-12-25 20:09:43.056108,79.5,OP_275,Minor Issue
